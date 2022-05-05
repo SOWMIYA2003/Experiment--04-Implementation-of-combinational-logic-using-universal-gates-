@@ -10,7 +10,6 @@ F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')' using NOR gate
 ## Hardware – PCs, Cyclone II , USB flasher
 ## Software – Quartus prime
 ## Theory
-```
 A universal gate is a gate which can implement any Boolean function without need to
 use any other gate type.
 The NAND and NOR gates are universal gates.
@@ -20,7 +19,7 @@ In fact, an AND gate is typically implemented as a NAND gate followed by an
 inverter not the other way around
 Likewise, an OR gate is typically implemented as a NOR gate followed by an inverter
 not the other way around
- ```
+ 
 ## Procedure
 
 ### Step 1:
